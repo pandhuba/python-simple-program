@@ -10,3 +10,10 @@ There are several menu in program :
 2. Konversi Suhu (Temperatur Conversion)
     Celcius - Reamur - Fahrenheit - Kelvin
 
+3. Konversi Bilangan Desimal (Decimal Number Conversion)
+    - Decimal to Binary
+    - Decimal to Oktal
+    - Decimal to Hexadecimal
+
+4. Keluar (Exit)
+
